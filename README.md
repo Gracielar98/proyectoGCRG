@@ -1,5 +1,5 @@
 <p>Plantilla desarrollada en HTML5, CSS3 y JS.</p>
-<img src="varios/logos.png" width="300">
+<img src="vario/logos.png" width="300">
 <p>Archivos principales:</p>
 <hr>
 <ul>
